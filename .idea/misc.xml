@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="code_and_data_hw2" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="code_and_data_hw2" project-jdk-type="Python SDK" />
+</project>
